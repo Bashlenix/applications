@@ -20,6 +20,9 @@ I’m eager to dive into meaningful projects that impact real people, and Careal
 
 * **A passion for healthcare:** Being a Health Informatics student myself, I’m committed to building technology that can positively impact patients' lives and improve medical outcomes.
 
+* **Multilingual communication:** Fluent in English, Arabic, and Turkish, and actively learning German to better collaborate in diverse, international teams 🌍.
+
+
 ## 🤝 Let’s Build Something Great Together
 I’d love to chat about how my skills and passion can contribute to Carealytix’s mission. Thank you for taking the time to explore my application, and I look forward to the possibility of collaborating on your next big healthcare tech solution!
 
